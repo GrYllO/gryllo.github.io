@@ -1,2 +1,2 @@
 # gryllo.github.io
-Personal Portfolio for Trybe exercises
+Personal Portfolio for Trybe exercise
